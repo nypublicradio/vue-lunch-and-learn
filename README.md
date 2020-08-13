@@ -1,6 +1,6 @@
 # lunch
 
-Notes: https://github.com/nypublicradio/vue-lunch-and-learn
+Notes: https://docs.google.com/document/d/1Yr4jylcFGZU3bLPWfBt8B_79SPqVnRvgWjwDiE2VuvM/edit?usp=sharing
 
 ## Project setup
 ```
