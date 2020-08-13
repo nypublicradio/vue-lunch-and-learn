@@ -1,5 +1,7 @@
 # lunch
 
+Notes: https://github.com/nypublicradio/vue-lunch-and-learn
+
 ## Project setup
 ```
 npm install
