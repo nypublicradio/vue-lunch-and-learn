@@ -1,4 +1,4 @@
-# lunch
+# vue lunch & learn part 1
 
 Notes: https://docs.google.com/document/d/1Yr4jylcFGZU3bLPWfBt8B_79SPqVnRvgWjwDiE2VuvM/edit?usp=sharing
 
